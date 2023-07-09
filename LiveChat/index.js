@@ -7,6 +7,7 @@ import { AuthWebView } from '@livechat/customer-auth'
 import * as CustomerSDK from '@livechat/customer-sdk'
 import * as lc3Parsers from './lc3Parsers'
 
+// react native livechat
 const chatIcon = require('./../assets/chat.png')
 const { width } = Dimensions.get('window')
 
